@@ -1,4 +1,4 @@
-# data-visualization
+# 中国历年GDP和人口数据可视化
 
 #### 项目介绍
 为探究中国各省的人口数量、人口流动和GDP之间的关系，本项目基于2000-2020年全国各省GDP数据、人口数据和高德2018年6月到2021年11月年度迁徙数据，使用Vue框架搭建大数据面板进行分析
@@ -37,4 +37,4 @@
 [https://lianshiwei.github.io/datavisualization.github.io/#/](https://lianshiwei.github.io/datavisualization.github.io/#/)
 
 #### 项目成员
-感谢
+感谢[@adelamingyi](https://github.com/adelamingyi) 、[lianshiwei](https://github.com/lianshiwei)对项目的贡献！
