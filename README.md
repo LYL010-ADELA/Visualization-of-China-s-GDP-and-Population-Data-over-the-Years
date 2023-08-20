@@ -37,4 +37,4 @@
 [https://lianshiwei.github.io/datavisualization.github.io/#/](https://lianshiwei.github.io/datavisualization.github.io/#/)
 
 #### 项目成员
-感谢[@adelamingyi](https://github.com/adelamingyi) 、[lianshiwei](https://github.com/lianshiwei)对项目的贡献！
+感谢[@adelamingyi](https://github.com/adelamingyi) 、[@lianshiwei](https://github.com/lianshiwei)对项目的贡献！
