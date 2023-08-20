@@ -1,0 +1,1204 @@
+{
+    "安徽省": [
+        {
+            "name": "安徽省",
+            "value": [
+                117.27,
+                31.86
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江苏省",
+            "value": [
+                118.78,
+                32.04
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "上海市",
+            "value": [
+                121.48,
+                31.22
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "浙江省",
+            "value": [
+                120.19,
+                30.26
+            ],
+            "visualMap": false
+        }
+    ],
+    "河南省": [
+        {
+            "name": "安徽省",
+            "value": [
+                117.27,
+                31.86
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "贵州省",
+            "value": [
+                106.71,
+                26.57
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河北省",
+            "value": [
+                114.48,
+                38.03
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "湖北省",
+            "value": [
+                114.31,
+                30.52
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江苏省",
+            "value": [
+                118.78,
+                32.04
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "山东省",
+            "value": [
+                117,
+                36.65
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "上海市",
+            "value": [
+                121.48,
+                31.22
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "浙江省",
+            "value": [
+                120.19,
+                30.26
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "陕西省",
+            "value": [
+                108.95,
+                34.27
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "天津市",
+            "value": [
+                117.2,
+                39.13
+            ],
+            "visualMap": false
+        }
+    ],
+    "江苏省": [
+        {
+            "name": "安徽省",
+            "value": [
+                117.27,
+                31.86
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江苏省",
+            "value": [
+                118.78,
+                32.04
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "山东省",
+            "value": [
+                117,
+                36.65
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "上海市",
+            "value": [
+                121.48,
+                31.22
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "浙江省",
+            "value": [
+                120.19,
+                30.26
+            ],
+            "visualMap": false
+        }
+    ],
+    "上海市": [
+        {
+            "name": "安徽省",
+            "value": [
+                117.27,
+                31.86
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "上海市",
+            "value": [
+                121.48,
+                31.22
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江苏省",
+            "value": [
+                118.78,
+                32.04
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "浙江省",
+            "value": [
+                120.19,
+                30.26
+            ],
+            "visualMap": false
+        }
+    ],
+    "浙江省": [
+        {
+            "name": "安徽省",
+            "value": [
+                117.27,
+                31.86
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "浙江省",
+            "value": [
+                120.19,
+                30.26
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江苏省",
+            "value": [
+                118.78,
+                32.04
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "上海市",
+            "value": [
+                121.48,
+                31.22
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "福建省",
+            "value": [
+                119.3,
+                26.08
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "湖南省",
+            "value": [
+                113,
+                28.21
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江西省",
+            "value": [
+                115.89,
+                28.68
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "重庆市",
+            "value": [
+                106.54,
+                29.59
+            ],
+            "visualMap": false
+        }
+    ],
+    "北京市": [
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "上海市",
+            "value": [
+                121.48,
+                31.22
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河北省",
+            "value": [
+                114.48,
+                38.03
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "辽宁省",
+            "value": [
+                123.38,
+                41.8
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "内蒙古自治区",
+            "value": [
+                111.65,
+                40.82
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "天津市",
+            "value": [
+                117.2,
+                39.13
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "新疆维吾尔自治区",
+            "value": [
+                87.68,
+                43.77
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "山西省",
+            "value": [
+                112.53,
+                37.87
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "山东省",
+            "value": [
+                117,
+                36.65
+            ],
+            "visualMap": false
+        }
+    ],
+    "贵州省": [
+        {
+            "name": "贵州省",
+            "value": [
+                106.71,
+                26.57
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "四川省",
+            "value": [
+                104.06,
+                30.67
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "重庆市",
+            "value": [
+                106.54,
+                29.59
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "云南省",
+            "value": [
+                102.73,
+                25.04
+            ],
+            "visualMap": false
+        }
+    ],
+    "河北省": [
+        {
+            "name": "河北省",
+            "value": [
+                114.48,
+                38.03
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "辽宁省",
+            "value": [
+                123.38,
+                41.8
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "内蒙古自治区",
+            "value": [
+                111.65,
+                40.82
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "山东省",
+            "value": [
+                117,
+                36.65
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "天津市",
+            "value": [
+                117.2,
+                39.13
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "山西省",
+            "value": [
+                112.53,
+                37.87
+            ],
+            "visualMap": false
+        }
+    ],
+    "湖北省": [
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "湖北省",
+            "value": [
+                114.31,
+                30.52
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江西省",
+            "value": [
+                115.89,
+                28.68
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "重庆市",
+            "value": [
+                106.54,
+                29.59
+            ],
+            "visualMap": false
+        }
+    ],
+    "山东省": [
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "山东省",
+            "value": [
+                117,
+                36.65
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江苏省",
+            "value": [
+                118.78,
+                32.04
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河北省",
+            "value": [
+                114.48,
+                38.03
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "天津市",
+            "value": [
+                117.2,
+                39.13
+            ],
+            "visualMap": false
+        }
+    ],
+    "陕西省": [
+        {
+            "name": "陕西省",
+            "value": [
+                108.95,
+                34.27
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "内蒙古自治区",
+            "value": [
+                111.65,
+                40.82
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "青海省",
+            "value": [
+                101.74,
+                36.56
+            ],
+            "visualMap": false
+        }
+    ],
+    "天津市": [
+        {
+            "name": "天津市",
+            "value": [
+                117.2,
+                39.13
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河南省",
+            "value": [
+                113.65,
+                34.76
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河北省",
+            "value": [
+                114.48,
+                38.03
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "辽宁省",
+            "value": [
+                123.38,
+                41.8
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "山东省",
+            "value": [
+                117,
+                36.65
+            ],
+            "visualMap": false
+        }
+    ],
+    "福建省": [
+        {
+            "name": "福建省",
+            "value": [
+                119.3,
+                26.08
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "浙江省",
+            "value": [
+                120.19,
+                30.26
+            ],
+            "visualMap": false
+        }
+    ],
+    "湖南省": [
+        {
+            "name": "湖南省",
+            "value": [
+                113,
+                28.21
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "浙江省",
+            "value": [
+                120.19,
+                30.26
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "广东省",
+            "value": [
+                113.23,
+                23.16
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江西省",
+            "value": [
+                115.89,
+                28.68
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "重庆市",
+            "value": [
+                106.54,
+                29.59
+            ],
+            "visualMap": false
+        }
+    ],
+    "江西省": [
+        {
+            "name": "江西省",
+            "value": [
+                115.89,
+                28.68
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "浙江省",
+            "value": [
+                120.19,
+                30.26
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "广东省",
+            "value": [
+                113.23,
+                23.16
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "湖南省",
+            "value": [
+                113,
+                28.21
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "湖北省",
+            "value": [
+                114.31,
+                30.52
+            ],
+            "visualMap": false
+        }
+    ],
+    "重庆市": [
+        {
+            "name": "浙江省",
+            "value": [
+                120.19,
+                30.26
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "重庆市",
+            "value": [
+                106.54,
+                29.59
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "广东省",
+            "value": [
+                113.23,
+                23.16
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "湖南省",
+            "value": [
+                113,
+                28.21
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "四川省",
+            "value": [
+                104.06,
+                30.67
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "贵州省",
+            "value": [
+                106.71,
+                26.57
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "湖北省",
+            "value": [
+                114.31,
+                30.52
+            ],
+            "visualMap": false
+        }
+    ],
+    "辽宁省": [
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "辽宁省",
+            "value": [
+                123.38,
+                41.8
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河北省",
+            "value": [
+                114.48,
+                38.03
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "天津市",
+            "value": [
+                117.2,
+                39.13
+            ],
+            "visualMap": false
+        }
+    ],
+    "内蒙古自治区": [
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "内蒙古自治区",
+            "value": [
+                111.65,
+                40.82
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河北省",
+            "value": [
+                114.48,
+                38.03
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "黑龙江省",
+            "value": [
+                126.63,
+                45.75
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "陕西省",
+            "value": [
+                108.95,
+                34.27
+            ],
+            "visualMap": false
+        }
+    ],
+    "新疆维吾尔自治区": [
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "新疆维吾尔自治区",
+            "value": [
+                87.68,
+                43.77
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "西藏自治区",
+            "value": [
+                91.11,
+                29.97
+            ],
+            "visualMap": false
+        }
+    ],
+    "山西省": [
+        {
+            "name": "北京市",
+            "value": [
+                116.46,
+                39.92
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "山西省",
+            "value": [
+                112.53,
+                37.87
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "河北省",
+            "value": [
+                114.48,
+                38.03
+            ],
+            "visualMap": false
+        }
+    ],
+    "黑龙江省": [
+        {
+            "name": "黑龙江省",
+            "value": [
+                126.63,
+                45.75
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "内蒙古自治区",
+            "value": [
+                111.65,
+                40.82
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "吉林省",
+            "value": [
+                125.35,
+                43.88
+            ],
+            "visualMap": false
+        }
+    ],
+    "西藏自治区": [
+        {
+            "name": "西藏自治区",
+            "value": [
+                91.11,
+                29.97
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "新疆维吾尔自治区",
+            "value": [
+                87.68,
+                43.77
+            ],
+            "visualMap": false
+        }
+    ],
+    "甘肃省": [
+        {
+            "name": "甘肃省",
+            "value": [
+                103.73,
+                36.03
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "青海省",
+            "value": [
+                101.74,
+                36.56
+            ],
+            "visualMap": false
+        }
+    ],
+    "青海省": [
+        {
+            "name": "甘肃省",
+            "value": [
+                103.73,
+                36.03
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "青海省",
+            "value": [
+                101.74,
+                36.56
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "陕西省",
+            "value": [
+                108.95,
+                34.27
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "四川省",
+            "value": [
+                104.06,
+                30.67
+            ],
+            "visualMap": false
+        }
+    ],
+    "四川省": [
+        {
+            "name": "四川省",
+            "value": [
+                104.06,
+                30.67
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "青海省",
+            "value": [
+                101.74,
+                36.56
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "广东省",
+            "value": [
+                113.23,
+                23.16
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "贵州省",
+            "value": [
+                106.71,
+                26.57
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "重庆市",
+            "value": [
+                106.54,
+                29.59
+            ],
+            "visualMap": false
+        }
+    ],
+    "广东省": [
+        {
+            "name": "广东省",
+            "value": [
+                113.23,
+                23.16
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "广西壮族自治区",
+            "value": [
+                108.33,
+                22.84
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "湖南省",
+            "value": [
+                113,
+                28.21
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "江西省",
+            "value": [
+                115.89,
+                28.68
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "四川省",
+            "value": [
+                104.06,
+                30.67
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "重庆市",
+            "value": [
+                106.54,
+                29.59
+            ],
+            "visualMap": false
+        }
+    ],
+    "广西壮族自治区": [
+        {
+            "name": "广东省",
+            "value": [
+                113.23,
+                23.16
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "广西壮族自治区",
+            "value": [
+                108.33,
+                22.84
+            ],
+            "visualMap": false
+        }
+    ],
+    "云南省": [
+        {
+            "name": "贵州省",
+            "value": [
+                106.71,
+                26.57
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "云南省",
+            "value": [
+                102.73,
+                25.04
+            ],
+            "visualMap": false
+        }
+    ],
+    "吉林省": [
+        {
+            "name": "吉林省",
+            "value": [
+                125.35,
+                43.88
+            ],
+            "visualMap": false
+        },
+        {
+            "name": "黑龙江省",
+            "value": [
+                126.63,
+                45.75
+            ],
+            "visualMap": false
+        }
+    ]
+}
