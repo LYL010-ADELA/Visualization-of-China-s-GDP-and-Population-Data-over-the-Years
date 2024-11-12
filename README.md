@@ -3,7 +3,7 @@
 #### Project Introduction
 To explore the relationships between population size, population mobility, and GDP across Chinese provinces, this project creates a big data dashboard based on provincial GDP data, population data from 2000-2020, and Amap's annual migration data from June 2018 to November 2021, using the Vue framework for analysis.
 
-#### 软件架构
+#### Software Architecture
   <a href="https://github.com/vuejs/vue">
     <img src="https://img.shields.io/badge/vue-2.6.11-brightgreen.svg" alt="vue">
   </a>
